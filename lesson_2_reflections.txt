@@ -5,19 +5,38 @@ need to do it?
 	save the files in system as per the git rules. We have
 	to initialize the repository to begin the process.
 
-How is the staging area different from the working directory and the repository?
-What value do you think it offers?
+How is the staging area different from the working directory and the repository? What value do you think it
+offers?
+	
+	Staging area is the intermediate of the two. It helps
+	us to track the list of files needed to be committed
+	before doing so.
 
-How can you use the staging area to make sure you have one commit per logical
-change?
+How can you use the staging area to make sure you have one
+commit per logical change?
 
-What are some situations when branches would be helpful in keeping your history
-organized? How would branches help?
+	By comparing the files in staging area and most recent
+	commit.
+
+What are some situations when branches would be helpful in
+keeping your history organized? How would branches help?
+
+	Branches would be helpful when different people at 
+	different places would try to make changes to a code.
+	They all can work with different branches.	
 
 How do the diagrams help you visualize the branch structure?
 
-What is the result of merging two branches together? Why do we represent it in
-the diagram the way we do?
+	They make the understanding easier.
 
-What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
-manually?
+What is the result of merging two branches together? Why do
+we represent it in the diagram the way we do?
+
+	The result is a new branch.
+
+What are the pros and cons of Gitâ€™s automatic merging vs.
+always doing merges manually?
+
+	Pros - Saves time
+	Cons - May not save the correct part of code as intended
+
