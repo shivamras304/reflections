@@ -29,7 +29,8 @@ state of the remote stored locally?
     To keep a track of how many extra commits we have made
     since we last synced with the remote.
 
-How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+How would you collaborate without using Git or GitHub? What
+would be easier, and what would be harder?
 
     Collaboration using GitHub will be easier. Without
     GitHub we would have to manually copy paste all the
