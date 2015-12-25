@@ -22,3 +22,24 @@ branches. When would you use one instead of another?
 	local machine. When we want to work on someone else's
 	project, first we will fork it. If the changes aren't
 	small, we will clone the project on our machine.
+
+What is the benefit of having a copy of the last known
+state of the remote stored locally?
+
+    To keep a track of how many extra commits we have made
+    since we last synced with the remote.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+    Collaboration using GitHub will be easier. Without
+    GitHub we would have to manually copy paste all the
+    changes after discussing with the contributor in 
+    person.
+
+When would you want to make changes in a separate branch
+rather than directly in master?  What benefits does each
+approach have?
+
+    We make changes in separate branch when we intend to
+    share it with someone else or the change is something
+    an entirely different feature.
